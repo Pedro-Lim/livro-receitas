@@ -4,3 +4,5 @@
 ### Receitas ate agora:
 * Lasanha
 * Vatapa
+* Feijoada
+
