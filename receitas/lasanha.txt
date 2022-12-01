@@ -1,8 +1,8 @@
 Lasanha 
 
-Ingredientes
+Ingredientes:
 
-	Quijo
+	Queijo
 	Carne
 	Massa
 	
