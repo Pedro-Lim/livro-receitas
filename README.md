@@ -3,3 +3,4 @@
 
 ### Receitas ate agora:
 * Lasanha
+* Feijoada
